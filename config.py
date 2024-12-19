@@ -18,7 +18,7 @@ ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP", "1002141779241")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-REPO_URL = getenv("REPO_URL", "https://github.com/BABY-MUSIC/SATYA_USERBOT")
+REPO_URL = getenv("REPO_URL", "https://github.com/GDNBharat/Toxic-userbot")
 BRANCH = getenv("BRANCH", "main") #don't change
  
 STRING_SESSION1 = getenv("STRING_SESSION1", "BQGwyGIAuC74P0mFemk1MfPQgizI_snLzYQ1Zsgfs-lbAbGTdo136-Kc9Lcc9rpqdVHQBayg5oiIVUvRDMwNZPsG5zd9aX4MmaEotHpIBZEPgkZii9Q8o0Xx1Vr4rlVPVWwpjNhl8WkH4VfgfHObp6tiTUzTE8mWCmnt3QUpAyMme2vHF2rF_iXWD2GS00Pw6b5j-ywOuRnunlN2LmZO22brvHUY2ciXyeUy2JV3i-QADxHARnDOMf5T9oDbfLU2zRggrCQEXsJ8iTruNT5riD-ogPYcAUB9UZsLmiP1Y40HbJwYKDktG5bmwmQ6RuSjz9tOnm6fZ9W6gQKapjoaXoWP_ngU3QAAAAHETnMdAA")
