@@ -1,4 +1,4 @@
-RAID [
+RAID = [
 "Ni amma puku denga",
 "Ni amma ni lepi lepi dengutha",
 "Chinna jolike vaste ni amma ni bonda pedata Gandu😂",
