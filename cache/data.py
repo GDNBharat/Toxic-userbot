@@ -207,11 +207,11 @@ RAID = [
 
 GRP = "@BABY09_WORLD"
 
-GROUP = [-1002202166325]
+GROUP = [-1002532559194]
 
-VERIFIED_USERS = [6977190988]
+VERIFIED_USERS = [8187405882]
 
-Owners = "@UTTAM470"
+Owners = "Reddragon_op"
 
 PORN = [
         "https://telegra.ph/file/9bcc076fd81dfe3feb291.mp4",
