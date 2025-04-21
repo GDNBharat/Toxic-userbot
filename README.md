@@ -5,7 +5,7 @@
 <img src="f">
 <img src="">
 <h1 align="center"><b>˹ </b></h1>
-<p align="center"><a href="Https://t.me/reddragon_op"><img src="https://files.catbox.moe/w04ren.jpg" width="600"></a></p>
+<p align="center"><a href="Https://t.me/reddragon_op"><img src="https://graph.org/file/6d78e1e8de6339de6123635d9fdfe123743c20f.jpg" width="600"></a></p>
 <img src="">
 
 
