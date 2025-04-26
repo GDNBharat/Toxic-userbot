@@ -21,7 +21,7 @@ GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
 REPO_URL = getenv("REPO_URL", "https://github.com/GDNBharat/Toxic-userbot")
 BRANCH = getenv("BRANCH", "main") #don't change
  
-STRING_SESSION1 = getenv("STRING_SESSION1", "")
+STRING_SESSION1 = getenv("STRING_SESSION1", "BQGwyGIAUP1PXABD1rJSnBzZgk9f6MfWD1d8Pk6e-3zDBT4AyNcgdu9pvNCyctBYZZJ47niiagGkQx7O6CR_Rtr8VZl5WfcOkpUpm1qCgHaAFq1sX9_1QVy4u7mzZi22CtCLqP0zCJn38HcwCfutRxDSeTjKhRviXEoWpO2u-xpARpY7Dtj5fJ5yqwqVTNVs7llsEm-5zS__JtrP5xCgYgIH2rLipWb3E4iSOiGGenNyptfYoLT2wB4L7vnN-HjblFHFzyA16zD-Yyieijwx98CDYhtjboZeogw3WDjkC_H20qYaT-c73qVZ9FtBjlj6VQ4vIXfHvk01bY3PU6N5enofI5DfJgAAAAHoAeY6AA")
 STRING_SESSION2 = getenv("STRING_SESSION2", "")
 STRING_SESSION3 = getenv("STRING_SESSION3", "")
 STRING_SESSION4 = getenv("STRING_SESSION4", "")
