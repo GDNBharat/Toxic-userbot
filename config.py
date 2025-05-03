@@ -6,8 +6,8 @@ if os.path.exists("local.env"):
     load_dotenv("local.env")
 
 
-API_ID = int(getenv("API_ID", "28362850")) #optional
-API_HASH = getenv("API_HASH", "34f9cb93364db16fc45d003e4c81d97a") #optional
+API_ID = int(getenv("API_ID", "27639080")) #optional
+API_HASH = getenv("API_HASH", "5c10faa5b68227793d5f9084106c6f24") #optional
 
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "8187405882").split()))
 OWNER_ID = int(getenv("OWNER_ID", "8187405882"))
@@ -21,7 +21,7 @@ GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
 REPO_URL = getenv("REPO_URL", "https://github.com/GDNBharat/Toxic-userbot")
 BRANCH = getenv("BRANCH", "main") #don't change
  
-STRING_SESSION1 = getenv("STRING_SESSION1", "BQGwyGIAR84Vg2X0GE78x1QExJqypW_rt1Iga663_4BzJ1FrkD12HnUEw-mSOhmrKSxiErMghiqSFBWVvGY26CpU3HIIbWafZF514hnC8Swtz-MTOLZ8ZCBYYhbty4i_7jVTNSAZ8tN_LkN1sN-Iwz_UxXr1qvaL3GYUgOShFVnkw4fQUIyW0qjrxlHPCkLzQC91Yv-f9Sq6qpt0ZbtPjvEU1gcu_60wt074vNmB20FF74LYanQBX7AMVxLQs1I4NRpWr0LtFRD69oNiKzEK6lTByDuTUQIcKIYXTpWGTU56ZBT1jwF3aeUwbZ8VVPZQepT-E6lIjUKE8vpYBTEocZmT4EQFQAAAAAHoAeY6AA")
+STRING_SESSION1 = getenv("STRING_SESSION1", "BQGlvSgAgbdEafeMy9YsHcLA0jMFmQ_yJIEBERIX83clQNauiZcVyAFb0Ga232bVbacVjNehemr44i5pTMJaaDp2hGkhULI5kko0lKN0l8aYthjp4bS2zvHCxJ48DLNH3il0nlb-GINXzwgV8Kqz8RVc1WNsLrxZfSRWs3KUTNX4rnWFIcpD1VuW701fXi-GN9rXAuMWTiHkhCwzJIioxS5p-GSOpigZvaXJsAwZCyjidTzvS1mdvYq6zqQqXgfWLkzEf_8st5KBNWYWVnm2gc5KcqqyQmxaCFb-4_n276FONQpyGv7JhyBWgQgcKh6CJiaQKsvHcHr3TcpdZaNJ-0CTQQVFUAAAAAHflqnaAA")
 STRING_SESSION2 = getenv("STRING_SESSION2", "")
 STRING_SESSION3 = getenv("STRING_SESSION3", "")
 STRING_SESSION4 = getenv("STRING_SESSION4", "")
