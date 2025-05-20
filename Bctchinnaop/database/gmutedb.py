@@ -1,4 +1,4 @@
-from UTTAM.database import cli
+from Bctchinnaop.database import cli
 
 gmuteh = cli["GMUTE"]
 
