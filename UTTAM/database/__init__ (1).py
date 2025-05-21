@@ -1,6 +1,10 @@
-import motor.motor_asyncio
+from pymongo import MongoClient
 
-from config import MONGO_URL
-cli = motor.motor_asyncio.AsyncIOMotorClient(MONGO_URL)
+import config
 
-dbb = cli.program
+vickdb = MongoClient(config.MONGO_URL)
+vick = vickdb["VickDb"]["Vick"]
+
+
+from .chats import *
+from .users import *
